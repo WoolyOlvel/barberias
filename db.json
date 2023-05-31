@@ -1,0 +1,18 @@
+{
+  "Barberias": [
+    { "id": 1, "Barberia": "Dtizas" },
+    { "id": 2, "Barberia": "Banos" },
+    { "id": 3, "Barberia": "TSN" }
+  ],
+  "Informacion": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 2 },
+    { "id": 3, "body": "some comment", "postId": 3 },
+
+  ],
+  "Barbero": {
+    "name": "Carlos",
+    "name": "Alessandra",
+    "name": "Regina"
+  }
+}
