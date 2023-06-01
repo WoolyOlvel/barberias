@@ -1,8 +1,8 @@
 {
   "Barberias": [
-    { "id": 1, "Barberia": "Dtizas" },
-    { "id": 2, "Barberia": "Banos" },
-    { "id": 3, "Barberia": "TSN" }
+    { "id": 1, "title": "Barberia Dtizas" },
+    { "id": 2, "title": "Barberia Banos" },
+    { "id": 3, "title": "Barberia TSN" }
   ],
   "Informacion": [
     { "id": 1, "body": "some comment", "postId": 1 },
