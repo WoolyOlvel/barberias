@@ -5,9 +5,9 @@
     { "id": 3, "title": "Barberia TSN" }
   ],
   "Informacion": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 2 },
-    { "id": 3, "body": "some comment", "postId": 3 }
+    { "id": 1, "body": "Barrio San Roque", "postId": 1 },
+    { "id": 2, "body": "Calkiní Centro", "postId": 2 },
+    { "id": 3, "body": "Barrio San Juan", "postId": 3 }
   ],
   "Barberos": [
     "Carlos",
